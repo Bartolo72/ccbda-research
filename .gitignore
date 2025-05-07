@@ -1,0 +1,5 @@
+*.env
+*.tgz
+*.mat
+data
+flowers
